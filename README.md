@@ -1,23 +1,57 @@
-### Olá! Me chamo Wanderson! Bem-Vindo(a) ao meu GitHub! 👋
-- 🌱 Atualmente um Estudante de Engenharia da Computação.
+# 👋 Olá! Eu sou o Wanderson Batista  
+### Estudante de Engenharia de Computação | IA Generativa | LLMs | Machine Learning
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersonbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonbatista&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
- <div> 
-  <a href="https://www.linkedin.com/in/wanderson-batista-a1943316b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Sou apaixonado por Inteligência Artificial, especialmente pela criação de sistemas usando **LLMs, RAG, agentes autônomos e modelos generativos**.  
+Meu foco é construir projetos práticos, bem documentados e prontos para uso em aplicações reais.
+
+---
+
+## 🚀 Tecnologias e Áreas de Interesse
+
+- **IA Generativa & LLMs:** OpenAI, Llama, Mistral  
+- **RAG (Retrieval Augmented Generation)**  
+- **Agentes Autônomos:** LangGraph, LangChain  
+- **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
+- **Modelos de Imagem:** Stable Diffusion, Diffusers, LoRA  
+- **Aplicações Web:** Streamlit, FastAPI  
+- **Linguagens:** Python (principal), C/C++, Assembly RISC-V  
+
+---
+
+## 🧠 Projetos em Destaque
+
+🔹 **Chatbot RAG para PDFs**  
+Sistema capaz de responder perguntas sobre documentos acadêmicos usando embeddings + FAISS + LLM.
+
+🔹 **Agente IA Autônomo**  
+Agente capaz de buscar informações, analisar conteúdo e executar ações programadas usando LangGraph.
+
+🔹 **Fine-Tuning do Llama 3**  
+Treinamento leve (QLoRA) para personalizar modelos em tarefas de classificação.
+
+🔹 **Stable Diffusion LoRA Trainer**  
+Treino de modelos de geração de imagem personalizados com Diffusers.
+
+🔹 **Dashboard IA com Streamlit**  
+Aplicação web para análise inteligente de arquivos com LLMs.
+
+---
+
+## 📚 Atualmente estudando
+
+- LLMOps  
+- IA multimodal  
+- Avaliação e segurança de modelos de linguagem  
+- Pipelines avançados de agentes  
+
+---
+
+## 🌎 Onde me encontrar
+
+📧 **wandersonpaulinobatista@gmail.com**  
+🐙 **GitHub:** github.com/wandersonbatista
+📱 **WhatsApp:** +55 85 99216-5622  
+
+---
+
+⭐ *Sempre aberto para colaborar em projetos de IA e aprender novas tecnologias. Vamos construir algo incrível juntos!*
