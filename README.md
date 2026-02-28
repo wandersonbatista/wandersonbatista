@@ -37,15 +37,6 @@ Aplicação web para análise inteligente de arquivos com LLMs.
 
 ---
 
-## 📚 Atualmente estudando
-
-- LLMOps  
-- IA multimodal  
-- Avaliação e segurança de modelos de linguagem  
-- Pipelines avançados de agentes  
-
----
-
 ## 🌎 Onde me encontrar
 
 📧 **wandersonpaulinobatista@gmail.com**  
