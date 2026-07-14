@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou o Wanderson Batista  
-### Estudante de Engenharia de Computação | IA Generativa | LLMs | Machine Learning
+### Estudante de Engenharia de Computação na Universidade Federal do Ceará
 
-Sou apaixonado por Inteligência Artificial, especialmente pela criação de sistemas usando **LLMs, RAG, agentes autônomos e modelos generativos**.  
-Meu foco é construir projetos práticos, bem documentados e prontos para uso em aplicações reais.
+Sou entusiasta por Inteligência Artificial, especialmente pela criação de sistemas usando **LLMs, RAG, agentes autônomos e modelos generativos**.  
 
 ---
 
@@ -13,12 +12,13 @@ Meu foco é construir projetos práticos, bem documentados e prontos para uso em
 - **Agentes Autônomos:** LangGraph, LangChain  
 - **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
 - **Modelos de Imagem:** Stable Diffusion, Diffusers, LoRA  
-- **Aplicações Web:** Streamlit, FastAPI  
+- **Aplicações Web:** Streamlit, FastAPI
+- **Visão Computacional:** YOLO.  
 - **Linguagens:** Python (principal), C/C++, Assembly RISC-V  
 
 ---
 
-## 🧠 Projetos em Destaque
+## Projetos:
 
 🔹 **Chatbot RAG para PDFs**  
 Sistema capaz de responder perguntas sobre documentos acadêmicos usando embeddings + FAISS + LLM.
