@@ -37,7 +37,7 @@ Aplicação web para análise inteligente de arquivos com LLMs.
 
 ---
 
-## 🌎 Onde me encontrar
+## Contato:
 
 📧 **wandersonpaulinobatista@gmail.com**  
 🐙 **GitHub:** github.com/wandersonbatista
