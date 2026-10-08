@@ -36,10 +36,10 @@ Aplicação web para análise inteligente de arquivos com LLMs.
 
 ## Contato:
 
-📧 **Email:** wandersonpaulinobatista@gmail.com 
-🐙 **GitHub:** github.com/wandersonbatista
-📱 **WhatsApp:** +55 85 99216-5622
-🪪 **Linkedin:** https://www.linkedin.com/in/wanderson-batista-a1943316b/
+📧 **Email:** wandersonpaulinobatista@gmail.com //
+🐙 **GitHub:** github.com/wandersonbatista //
+📱 **WhatsApp:** +55 85 99216-5622 //
+🪪 **Linkedin:** https://www.linkedin.com/in/wanderson-batista-a1943316b/  //
 
 ---
 
