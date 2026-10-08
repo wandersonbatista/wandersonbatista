@@ -1,21 +1,18 @@
-# 👋 Olá! Eu sou o Wanderson Batista  
-### Estudante de Engenharia de Computação na Universidade Federal do Ceará
+# Olá, eu sou o Wanderson Batista! 
 
-Sou entusiasta por Inteligência Artificial, especialmente pela criação de sistemas usando **LLMs, RAG, agentes autônomos e modelos generativos**.  
+**Estudante e entusiasta de tecnologia buscando estágio em Ciência de Dados e Machine Learning.**
+
+Sou apaixonado por resolver problemas através de código e dados. Tenho experiência prática no desenvolvimento em **Python**, banco de dados (**SQL/Informix**) e compartilhamento de conhecimento na comunidade tech. Atualmente, estou focado em extrair valor de dados através de análises, automações e modelos preditivos.
 
 ---
 
-## 🚀 Tecnologias e Áreas de Interesse
-
-- **IA Generativa & LLMs:** OpenAI, Llama, Mistral  
-- **RAG (Retrieval Augmented Generation)**  
-- **Agentes Autônomos:** LangGraph, LangChain  
-- **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
-- **Modelos de Imagem:** Stable Diffusion, Diffusers, LoRA  
-- **Aplicações Web:** Streamlit, FastAPI
-- **Visão Computacional:** YOLO.  
-- **Linguagens:** Python (principal), C/C++, Assembly RISC-V  
-
+### 🛠️ Minha Stack Principal
+* **Linguagens:** Python, SQL, R, C, C++.
+* **Dados & Machine Learning:** Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn
+* **Visão Computacional:** YOLO, Unet
+* **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
+* **IA Generativa & LLMs:** OpenAI, Llama.
+* 
 ---
 
 ## Projetos:
