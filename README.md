@@ -4,7 +4,6 @@
 
 Sou apaixonado por resolver problemas através de código e dados. Tenho experiência prática no desenvolvimento em **Python**, banco de dados (**SQL/Informix**) e compartilhamento de conhecimento na comunidade tech. Atualmente, estou focado em extrair valor de dados através de análises, automações e modelos preditivos.
 
----
 
 ## 🛠️ Minha Stack Principal
 * **Linguagens:** Python, SQL, R, C, C++.
@@ -13,7 +12,6 @@ Sou apaixonado por resolver problemas através de código e dados. Tenho experi�
 * **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
 * **IA Generativa & LLMs:** OpenAI, Llama.
 
----
 
 ## Projetos:
 
@@ -32,14 +30,18 @@ Treino de modelos de geração de imagem personalizados com Diffusers.
 * **Dashboard IA com Streamlit**  
 Aplicação web para análise inteligente de arquivos com LLMs.
 
----
+
 
 ## Contato:
 
-📧 **Email:** wandersonpaulinobatista@gmail.com //
-🐙 **GitHub:** github.com/wandersonbatista //
-📱 **WhatsApp:** +55 85 99216-5622 //
-🪪 **Linkedin:** https://www.linkedin.com/in/wanderson-batista-a1943316b/  //
+📧 **Email:** wandersonpaulinobatista@gmail.com  
+
+🐙 **GitHub:** github.com/wandersonbatista  
+
+📱 **WhatsApp:** +55 85 99216-5622  
+
+🪪 **Linkedin:** https://www.linkedin.com/in/wanderson-batista-a1943316b/  
+
 
 ---
 
