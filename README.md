@@ -2,7 +2,7 @@
 
 **Estudante e entusiasta de tecnologia buscando estágio em Ciência de Dados e Machine Learning.**
 
-Sou apaixonado por resolver problemas através de código e dados. Tenho experiência prática em desenvolvimento Python, banco de dados (SQL/Informix) e exploração de IA Generativa. Atualmente, busco minha primeira oportunidade profissional para transformar dados em valor de negócios, automatizar processos e criar modelos preditivos.
+Sou apaixonado por resolver problemas através de código e dados. Tenho experiência prática em desenvolvimento Python, banco de dados e exploração de IA Generativa. Atualmente, busco minha primeira oportunidade profissional para transformar dados em valor de negócios, automatizar processos e criar modelos preditivos.
 
 ### 🛠️ Tecnologias e Ferramentas
 
