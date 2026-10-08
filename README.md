@@ -25,11 +25,11 @@ Sou apaixonado por resolver problemas através de código e dados. Tenho experi�
 
 ### 🚀 Projetos em Destaque
 
-*   🧠 **[Chatbot RAG para PDFs]([link-aqui](https://github.com/wandersonbatista/rag_pdf_bot)):** Sistema de Q&A sobre documentos acadêmicos utilizando embeddings, FAISS e LLMs locais/nuvem.
-*   🤖 **[Agente IA Autônomo com LangGraph]([link-aqui](https://github.com/wandersonbatista/agente_autonomo)):** Agente capaz de buscar informações, analisar conteúdo e executar ações programadas em múltiplos passos.
-*   ⚙️ **[Fine-Tuning do Llama 3 (QLoRA)](link-aqui):** Adaptação de LLMs usando técnicas de Parameter-Efficient Fine-Tuning para tarefas específicas de classificação.
-*   🎨 **[Stable Diffusion LoRA Trainer](link-aqui):** Pipeline de treinamento com Diffusers para gerar imagens personalizadas.
-*   📊 **[Dashboard IA com Streamlit]([link-aqui](https://github.com/wandersonbatista/inventory-management-dashboard)):** Interface web interativa para análise automatizada de arquivos com integração de modelos de linguagem.
+*    **[Chatbot RAG para PDFs]([link-aqui](https://github.com/wandersonbatista/rag_pdf_bot)):** Sistema de Q&A sobre documentos acadêmicos utilizando embeddings, FAISS e LLMs locais/nuvem.
+*    **[Agente IA Autônomo com LangGraph]([link-aqui](https://github.com/wandersonbatista/agente_autonomo)):** Agente capaz de buscar informações, analisar conteúdo e executar ações programadas em múltiplos passos.
+*    **[Fine-Tuning do Llama 3 (QLoRA)](link-aqui):** Adaptação de LLMs usando técnicas de Parameter-Efficient Fine-Tuning para tarefas específicas de classificação.
+*    **[Stable Diffusion LoRA Trainer](link-aqui):** Pipeline de treinamento com Diffusers para gerar imagens personalizadas.
+*    **[Dashboard IA com Streamlit]([link-aqui](https://github.com/wandersonbatista/inventory-management-dashboard)):** Interface web interativa para análise automatizada de arquivos com integração de modelos de linguagem.
 
 ### 📈 Minhas Estatísticas no GitHub
 <div align="center">
@@ -37,7 +37,7 @@ Sou apaixonado por resolver problemas através de código e dados. Tenho experi�
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonbatista&layout=compact&theme=radical"/>
 </div>
 
-### 📫 Vamos nos conectar!
+###  Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-batista-a1943316b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersonpaulinobatista@gmail.com)
