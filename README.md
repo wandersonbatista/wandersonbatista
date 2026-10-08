@@ -6,13 +6,13 @@ Sou apaixonado por resolver problemas através de código e dados. Tenho experi�
 
 ---
 
-### 🛠️ Minha Stack Principal
+## 🛠️ Minha Stack Principal
 * **Linguagens:** Python, SQL, R, C, C++.
 * **Dados & Machine Learning:** Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn
 * **Visão Computacional:** YOLO, Unet
 * **Fine-Tuning de LLMs:** QLoRA, PEFT, Transformers  
 * **IA Generativa & LLMs:** OpenAI, Llama.
-* 
+
 ---
 
 ## Projetos:
